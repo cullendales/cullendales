@@ -6,7 +6,7 @@
 </a>
 
 ## About Me
-I'm a fourth-year student at Simon Fraser University studying Computer Science, specializing in Artificial Intelligence. Creating programs which optimize aspects of my own life is a passion of mine and I am continuously trying to better my skillset. I focus primarily on backend development but have recently been exploring frontend development through creating my own website and browser extensions.
+I'm a fourth-year Computer Science student at Simon Fraser University, specializing in Artificial Intelligence. Creating programs which optimize aspects of my own life is a passion of mine, and I am continuously working to improve my skillset. I focus primarily on backend development but have recently been exploring frontend development by building my own website and browser extensions.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=120&section=footer" alt="footer"/>
 
