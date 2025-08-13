@@ -14,7 +14,7 @@ I've included a list below of notable projects of mine organized in a convenient
 ### Games
 
 #### [Banner Bash](https://github.com/cullendales/banner-bash) · C#, GDScript
-Banner Bash primary is a game developed in Godot where multiple players can connect over a server and compete to hold a singular flag for as long as possible. This game was developed in combination with 3 other students.
+Banner Bash is a game developed in Godot where multiple players can connect over a server and compete to hold a singular flag for as long as possible. This game was developed in combination with 3 other students.
 
 #### [Pong With Power-Ups](https://github.com/cullendales/pong-with-power-ups) · Lua, JavaScript
 Takes the classic game Pong and adds a twist - power-ups! Enjoy Pong like never before. This game was my first game written in Lua and I wrote it on a plane without any Lua documentation, learning the language's syntax through error messages. The game was also translated to JavaScript for online compatability.
