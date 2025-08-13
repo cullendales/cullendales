@@ -9,7 +9,7 @@
 I'm a fourth-year Computer Science student at Simon Fraser University, specializing in Artificial Intelligence. Creating programs which optimize aspects of my own life is a passion of mine, and I am continuously working to improve my skillset. I focus primarily on backend development but have recently been exploring frontend development by building my own website and browser extensions.
 
 ## Projects
-I've included a list below of notable projects of mine organized in a convenient fashion. They have been categorized into the categories: [Games](#Games), [Backend](#Backend), [Full Stack](#Full-Stack), and [Currently in Development](#Currently-in-Development)
+I've included a list below of notable projects of mine organized in a convenient fashion. They have been categorized into the categories: [Games](#Games), [Backend](#Backend), and [Full Stack](#Full-Stack).
 
 ### Games
 
@@ -45,10 +45,6 @@ My own website created to showcase some of my projects and continue to improve m
 
 #### [Lullaby -  A FireFox Extension](https://github.com/cullendales/lullaby) · JavaScript, HTML, CSS
 Helps users fall asleep to boring YouTube videos. Comes with an optional cat-lock feature to keep your pesky cat from clicking keys on your nice warm keyboard when dozing off.
-
-### Currently in Development
-1. Database written in C++
-2. iPhone Application using sockets
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=120&section=footer" alt="footer"/>
 
