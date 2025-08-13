@@ -9,15 +9,7 @@
 I'm a fourth-year Computer Science student at Simon Fraser University, specializing in Artificial Intelligence. Creating programs which optimize aspects of my own life is a passion of mine, and I am continuously working to improve my skillset. I focus primarily on backend development but have recently been exploring frontend development by building my own website and browser extensions.
 
 ## Projects
-I've included a list below of notable projects of mine organized in a convenient fashion. They have been divided into the categories: [Games](#Games), [Backend](#Backend), and [Full Stack](#Full-Stack).
-
-### Games
-
-#### [Banner Bash](https://github.com/cullendales/banner-bash)
-Banner Bash is a game developed in Godot where multiple players can connect over a server and compete to hold a singular flag for as long as possible. This game was developed in combination with 3 other students.
-
-#### [Pong With Power-Ups](https://github.com/cullendales/pong-with-power-ups)
-Takes the classic game Pong and adds a twist - power-ups! Enjoy Pong like never before. This game was my first game written in Lua and I wrote it on a plane without any Lua documentation, learning the language's syntax through error messages. The game was also translated to JavaScript for online compatability.
+I've included a list below of notable projects of mine organized in a convenient fashion. They have been divided into the categories: [Backend](#Backend), [Full Stack](#Full-Stack), and [Games](#Games).
 
 ### Backend
 
@@ -45,6 +37,14 @@ My own website created to showcase some of my projects and continue to improve m
 
 #### [Lullaby -  A FireFox Extension](https://github.com/cullendales/lullaby) 
 Helps users fall asleep to boring YouTube videos. Comes with an optional cat-lock feature to keep your pesky cat from clicking keys on your nice warm keyboard when dozing off.
+
+### Games
+
+#### [Banner Bash](https://github.com/cullendales/banner-bash)
+Banner Bash is a game developed in Godot where multiple players can connect over a server and compete to hold a singular flag for as long as possible. This game was developed in combination with 3 other students.
+
+#### [Pong With Power-Ups](https://github.com/cullendales/pong-with-power-ups)
+Takes the classic game Pong and adds a twist - power-ups! Enjoy Pong like never before. This game was my first game written in Lua and I wrote it on a plane without any Lua documentation, learning the language's syntax through error messages. The game was also translated to JavaScript for online compatability.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=120&section=footer" alt="footer"/>
 
