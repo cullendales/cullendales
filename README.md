@@ -35,7 +35,7 @@ A Vietnamese language learning assistant, which helps the user learn Vietnamese 
 
 My own website created to showcase some of my projects and continue to improve my frontend development skills.
 
-#### [Lullaby -  A FireFox Extension](https://github.com/cullendales/lullaby) 
+#### [Lullaby -  A Firefox Extension](https://github.com/cullendales/lullaby) 
 Helps users fall asleep to boring YouTube videos. Comes with an optional cat-lock feature to keep your pesky cat from clicking keys on your nice warm keyboard when dozing off.
 
 ### Games
