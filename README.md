@@ -9,7 +9,7 @@
 I'm a fourth-year Computer Science student at Simon Fraser University, specializing in Artificial Intelligence. Creating programs which optimize aspects of my own life is a passion of mine, and I am continuously working to improve my skillset. I focus primarily on backend development but have recently been exploring frontend development by building my own website and browser extensions.
 
 ## Projects
-I've included a list below of notable projects of mine organized in a convenient fashion. They have been categorized into the categories: [Games](#Games), [Backend](#Backend), and [Full Stack](#Full-Stack).
+I've included a list below of notable projects of mine organized in a convenient fashion. They have been divided into the categories: [Games](#Games), [Backend](#Backend), and [Full Stack](#Full-Stack).
 
 ### Games
 
@@ -28,7 +28,7 @@ This program lists all cafes with matcha lattes within a city searched using Goo
 A motivational, visual-computing program which continuously monitors the user's posture.
 
 #### [Automated IELTS Marker](https://github.com/cullendales/automated-ielts-marker)
-A program which can mark the task 2 writing of the IELTS written test automatically. Many students studying for the IELTS examination have difficulty receiving proper feedback and marks on their writing practice. This program looks to remedy that and allows you to upload your work in either a docx or txt format and receive a mark back, along with some feedback.
+A program which can mark the task 2 writing of the IELTS written test automatically and output a mark similar to a professional examiner on a scale of 1.5 - 9.
 
 #### [The Queen's English](https://github.com/cullendales/the-queens-english)
 This program allows users to write programs in Python, HTML, & CSS using Canadian spelling and then converts the necessary words to change (ie. colour to color) while running the program without changing it on the user's side.
