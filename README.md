@@ -13,37 +13,37 @@ I've included a list below of notable projects of mine organized in a convenient
 
 ### Games
 
-#### [Banner Bash](https://github.com/cullendales/banner-bash) · C#, GDScript
+#### [Banner Bash](https://github.com/cullendales/banner-bash)
 Banner Bash is a game developed in Godot where multiple players can connect over a server and compete to hold a singular flag for as long as possible. This game was developed in combination with 3 other students.
 
-#### [Pong With Power-Ups](https://github.com/cullendales/pong-with-power-ups) · Lua, JavaScript
+#### [Pong With Power-Ups](https://github.com/cullendales/pong-with-power-ups)
 Takes the classic game Pong and adds a twist - power-ups! Enjoy Pong like never before. This game was my first game written in Lua and I wrote it on a plane without any Lua documentation, learning the language's syntax through error messages. The game was also translated to JavaScript for online compatability.
 
 ### Backend
 
-#### [Matcha Latte Finder](https://github.com/cullendales/matcha-finder) · Python
+#### [Matcha Latte Finder](https://github.com/cullendales/matcha-finder)
 This program lists all cafes with matcha lattes within a city searched using Google Places and Geocaching APIs and output their rating, as well as adjectives people wrote in reviews about the matcha lattes in a convenient format underneath the cafes. The user can then further filter based off the keyword adjectives output or rating threshold to decide on the perfect cafe for them.
 
-#### [Posture Monitoring Program](https://github.com/cullendales/sit-the-f-up) · Python
+#### [Posture Monitoring Program](https://github.com/cullendales/sit-the-f-up)
 A motivational, visual-computing program which continuously monitors the user's posture.
 
-#### [Automated IELTS Marker](https://github.com/cullendales/automated-ielts-marker) · C++, Python
+#### [Automated IELTS Marker](https://github.com/cullendales/automated-ielts-marker)
 A program which can mark the task 2 writing of the IELTS written test automatically. Many students studying for the IELTS examination have difficulty receiving proper feedback and marks on their writing practice. This program looks to remedy that and allows you to upload your work in either a docx or txt format and receive a mark back, along with some feedback.
 
-#### [The Queen's English](https://github.com/cullendales/the-queens-english) · Python
+#### [The Queen's English](https://github.com/cullendales/the-queens-english)
 This program allows users to write programs in Python, HTML, & CSS using Canadian spelling and then converts the necessary words to change (ie. colour to color) while running the program without changing it on the user's side.
 
-#### [Phocabulary](https://github.com/cullendales/phocabulary) · Python
+#### [Phocabulary](https://github.com/cullendales/phocabulary) 
 A Vietnamese language learning assistant, which helps the user learn Vietnamese through quizzes based on articles related to user interests.
 
 ### Full Stack
 
-#### [Personal Portfolio Website](https://github.com/cullendales/cullendales.github.io) · HTML, JavaScript, CSS
+#### [Personal Portfolio Website](https://github.com/cullendales/cullendales.github.io) 
 [Website](https://cullendales.com)
 
 My own website created to showcase some of my projects and continue to improve my frontend development skills.
 
-#### [Lullaby -  A FireFox Extension](https://github.com/cullendales/lullaby) · JavaScript, HTML, CSS
+#### [Lullaby -  A FireFox Extension](https://github.com/cullendales/lullaby) 
 Helps users fall asleep to boring YouTube videos. Comes with an optional cat-lock feature to keep your pesky cat from clicking keys on your nice warm keyboard when dozing off.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=120&section=footer" alt="footer"/>
