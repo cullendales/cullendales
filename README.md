@@ -46,7 +46,7 @@ Banner Bash is a game developed in Godot where multiple players can connect over
 #### [Pong With Power-Ups](https://github.com/cullendales/pong-with-power-ups)
 [Play](https://cullendales.com/pong/)
 
-Takes the classic game Pong and adds a twist - power-ups! Enjoy Pong like never before.
+Takes the classic game Pong and adds a twist - power-ups! Play solo against an AI opponent or multiplayer with a friend.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=120&section=footer" alt="footer"/>
 
