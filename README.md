@@ -14,7 +14,7 @@ I've included a list below of notable projects of mine organized in a convenient
 ### Backend
 
 #### [Matcha Latte Finder](https://github.com/cullendales/matcha-finder)
-This program lists all cafes with matcha lattes within a city searched using Google Places and Geocaching APIs and output their rating, as well as adjectives people wrote in reviews about the matcha lattes in a convenient format underneath the cafes. The user can then further filter based off the keyword adjectives output or rating threshold to decide on the perfect cafe for them.
+Lists all cafes with matcha lattes within a city searched, as well as adjectives people wrote in reviews about the matcha lattes in a convenient format underneath the cafes.
 
 #### [Posture Monitoring Program](https://github.com/cullendales/sit-the-f-up)
 A motivational, visual-computing program which continuously monitors the user's posture.
@@ -41,10 +41,10 @@ Helps users fall asleep to boring YouTube videos. Comes with an optional cat-loc
 ### Games
 
 #### [Banner Bash](https://github.com/cullendales/banner-bash)
-Banner Bash is a game developed in Godot where multiple players can connect over a server and compete to hold a singular flag for as long as possible. This game was developed in combination with 3 other students.
+Banner Bash is a game developed in Godot where multiple players can connect over a server and compete to hold a singular flag for as long as possible.
 
 #### [Pong With Power-Ups](https://github.com/cullendales/pong-with-power-ups)
-Takes the classic game Pong and adds a twist - power-ups! Enjoy Pong like never before. This game was my first game written in Lua and I wrote it on a plane without any Lua documentation, learning the language's syntax through error messages. The game was also translated to JavaScript for online compatability.
+Takes the classic game Pong and adds a twist - power-ups! Enjoy Pong like never before.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=120&section=footer" alt="footer"/>
 
