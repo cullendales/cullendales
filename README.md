@@ -44,6 +44,7 @@ Helps users fall asleep to boring YouTube videos. Comes with an optional cat-loc
 Banner Bash is a game developed in Godot where multiple players can connect over a server and compete to hold a singular flag for as long as possible.
 
 #### [Pong With Power-Ups](https://github.com/cullendales/pong-with-power-ups)
+[Play](cullendales.com/pong)
 Takes the classic game Pong and adds a twist - power-ups! Enjoy Pong like never before.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=120&section=footer" alt="footer"/>
