@@ -11,7 +11,7 @@ I'm a fourth-year Computer Science student at Simon Fraser University, specializ
 ## Projects
 I've included a list below of notable projects of mine organized in a convenient fashion. They have been divided into the categories: [Software Projects](#Software-Projects-Tools--Backend), [Full Stack Projects](#Full-Stack-Projects) and [Games](#Games).
 
-### Software Projects (Tools & Backend)
+### Software Projects (Backend, Scripts, & Tools)
 
 #### [Matcha Latte Finder](https://github.com/cullendales/matcha-finder)
 Lists all cafes with matcha lattes within a city searched, as well as adjectives people wrote in reviews about the matcha lattes in a convenient format underneath the cafes.
