@@ -9,9 +9,15 @@
 I'm a fourth-year Computer Science student at Simon Fraser University, specializing in Artificial Intelligence. Creating programs which optimize aspects of my own life is a passion of mine, and I am continuously working to improve my skillset. I focus primarily on backend development but have recently been exploring frontend development by building my own website and browser extensions.
 
 ## Projects
-I've included a list below of notable projects of mine organized in a convenient fashion. They have been divided into the categories: [Software Projects](#Software-Projects) and [Games](#Games).
+I've included a list below of notable projects of mine organized in a convenient fashion. They have been divided into the categories: [Software Projects](#Software-Projects-(Tools-&-Backend)), [Full Stack Projects](#Full-Stack-Projects) and [Games](#Games).
 
-### Software Projects
+### Software Projects (Tools & Backend)
+
+#### [Matcha Latte Finder](https://github.com/cullendales/matcha-finder)
+Lists all cafes with matcha lattes within a city searched, as well as adjectives people wrote in reviews about the matcha lattes in a convenient format underneath the cafes.
+
+#### [Phocabulary](https://github.com/cullendales/phocabulary) 
+A Vietnamese language learning assistant, which helps the user learn Vietnamese through quizzes based on articles related to user interests.
 
 #### [Posture Monitoring Program](https://github.com/cullendales/sit-the-f-up)
 A motivational, visual-computing program which continuously monitors the user's posture.
@@ -22,11 +28,7 @@ A program which can mark the task 2 writing of the IELTS written test automatica
 #### [The Queen's English](https://github.com/cullendales/the-queens-english)
 This program allows users to write programs in Python, HTML, & CSS using Canadian spelling and then converts the necessary words to change (ie. colour to color) while running the program without changing it on the user's side.
 
-#### [Matcha Latte Finder](https://github.com/cullendales/matcha-finder)
-Lists all cafes with matcha lattes within a city searched, as well as adjectives people wrote in reviews about the matcha lattes in a convenient format underneath the cafes.
-
-#### [Phocabulary](https://github.com/cullendales/phocabulary) 
-A Vietnamese language learning assistant, which helps the user learn Vietnamese through quizzes based on articles related to user interests.
+### Full Stack Projects
 
 #### [Personal Portfolio Website](https://github.com/cullendales/cullendales.github.io) 
 [Website](https://cullendales.com)
