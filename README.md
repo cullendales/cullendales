@@ -9,7 +9,7 @@
 I'm a fourth-year Computer Science student at Simon Fraser University, specializing in Artificial Intelligence. Creating programs which optimize aspects of my own life is a passion of mine, and I am continuously working to improve my skillset. I focus primarily on backend development but have recently been exploring frontend development by building my own website and browser extensions.
 
 ## Projects
-I've included a list below of notable projects of mine organized in a convenient fashion. They have been divided into the categories: [Software Projects](#Software-Projects-Tools--Backend), [Full Stack Projects](#Full-Stack-Projects) and [Games](#Games).
+I've included a list below of notable projects of mine organized in a convenient fashion. They have been divided into the categories: [Software Projects](#Software-Projects-Backend-Scripts--Tools), [Full Stack Projects](#Full-Stack-Projects) and [Games](#Games).
 
 ### Software Projects (Backend, Scripts, & Tools)
 
