@@ -28,6 +28,9 @@ A program which can mark the task 2 writing of the IELTS written test automatica
 #### [The Queen's English](https://github.com/cullendales/the-queens-english)
 This program allows users to write programs in Python, HTML, & CSS using Canadian spelling and then converts the necessary words to change (ie. colour to color) while running the program without changing it on the user's side.
 
+#### [Generation Bot](https://github.com/cullendales/generation-bot)  |  [Translation Bot](https://github.com/cullendales/translation-bot)
+Created two discorb bots. One of them determines if you are likely a millenial or zoomer through message history and the other provides translations from any language into English.
+
 ### Full Stack Projects
 
 #### [Personal Portfolio Website](https://github.com/cullendales/cullendales.github.io) 
