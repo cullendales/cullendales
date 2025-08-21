@@ -41,6 +41,9 @@ My own website created to showcase some of my projects and continue to improve m
 #### [Lullaby -  A Firefox Extension](https://github.com/cullendales/lullaby)
 Helps users fall asleep to boring YouTube videos. Comes with an optional cat-lock feature to keep your pesky cat from clicking keys on your nice warm keyboard when dozing off.
 
+#### [Mini Projects](https://github.com/cullendales/mini-fullstack)
+A collection of smaller full stack and frontend projects.
+
 ### Games
 
 #### [Banner Bash](https://github.com/cullendales/banner-bash)
