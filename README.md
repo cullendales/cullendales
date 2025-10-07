@@ -40,6 +40,7 @@ My own website created to showcase some of my projects and continue to improve m
 
 #### [PathQuest](https://github.com/cullendales/pathquest)
 [Live Demo](https://pathquest-ten.vercel.app)
+
 Transforms the traditional MBTI personality test into an engaging, interactive adventure. Users navigate through four unique social scenarios as a game character, making choices that reveal their true personality type.
 
 #### [Lullaby -  A Firefox Extension](https://github.com/cullendales/lullaby)
