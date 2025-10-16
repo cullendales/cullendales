@@ -29,7 +29,7 @@ A program which can mark the task 2 writing of the IELTS written test automatica
 This program allows users to write programs in Python, HTML, & CSS using Canadian spelling and then converts the necessary words to change (ie. colour to color) while running the program without changing it on the user's side.
 
 #### [Arcana](https://github.com/cullendales/arcana)
-Find out your future and fortune through this project written in Rust. 
+Discover meaning and patterns in your past, present and future through Tarot cards in this Rust project. 
 
 #### [Generation Bot](https://github.com/cullendales/generation-bot)  |  [Translation Bot](https://github.com/cullendales/translation-bot)
 Created two Discord bots in C\#. One of them determines if you are likely a millenial or zoomer through message history and the other provides translations from any language into English.
