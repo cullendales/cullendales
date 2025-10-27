@@ -19,7 +19,7 @@ A multimodal AI home speaker assistant built into a Raspberry Pi. Luna is simila
 #### [Phocabulary](https://github.com/cullendales/phocabulary) 
 A Vietnamese language learning assistant, which helps the user learn Vietnamese through quizzes based on articles related to user interests.
 
-#### [Posture Monitoring Program](https://github.com/cullendales/sit-the-f-up)
+#### [Posture Monitoring](https://github.com/cullendales/sit-the-f-up)
 A motivational, visual-computing program which continuously monitors the user's posture.
 
 #### [Matcha Latte Finder](https://github.com/cullendales/matcha-finder)
