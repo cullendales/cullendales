@@ -16,14 +16,14 @@ I've included a list below of notable projects of mine organized in a convenient
 #### [Luna](https://github.com/cullendales/luna)
 A multimodal AI home speaker assistant built into a Raspberry Pi. Luna is similar to an Alexa but uses OpenAI API calls to answer questions and utlizes a camera to track your posture or check how nice your outfit looks.
 
-#### [Matcha Latte Finder](https://github.com/cullendales/matcha-finder)
-Lists all cafes with matcha lattes within a city searched, as well as adjectives people wrote in reviews about the matcha lattes in a convenient format underneath the cafes.
-
 #### [Phocabulary](https://github.com/cullendales/phocabulary) 
 A Vietnamese language learning assistant, which helps the user learn Vietnamese through quizzes based on articles related to user interests.
 
 #### [Posture Monitoring Program](https://github.com/cullendales/sit-the-f-up)
 A motivational, visual-computing program which continuously monitors the user's posture.
+
+#### [Matcha Latte Finder](https://github.com/cullendales/matcha-finder)
+Lists all cafes with matcha lattes within a city searched, as well as adjectives people wrote in reviews about the matcha lattes in a convenient format underneath the cafes.
 
 #### [Automated IELTS Marker](https://github.com/cullendales/automated-ielts-marker)
 A program which can mark the task 2 writing of the IELTS written test automatically and output a mark similar to a professional examiner on a scale of 1.5 - 9.
