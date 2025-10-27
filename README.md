@@ -14,7 +14,7 @@ I've included a list below of notable projects of mine organized in a convenient
 ### Software Projects (Backend, Scripts, & Tools)
 
 #### [Luna](https://github.com/cullendales/luna)
-A multimodal AI home speaker assistant built into a Raspberry Pi. Luna is similar to an Alexa but uses an openai API to answer questions and utlizes a camera to track your posture or check how nice your outfit looks.
+A multimodal AI home speaker assistant built into a Raspberry Pi. Luna is similar to an Alexa but uses OpenAI API calls to answer questions and utlizes a camera to track your posture or check how nice your outfit looks.
 
 #### [Matcha Latte Finder](https://github.com/cullendales/matcha-finder)
 Lists all cafes with matcha lattes within a city searched, as well as adjectives people wrote in reviews about the matcha lattes in a convenient format underneath the cafes.
