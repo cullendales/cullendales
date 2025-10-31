@@ -45,7 +45,7 @@ Created two Discord bots in C\#. One of them determines if you are likely a mill
 My own website created to showcase some of my projects and continue to improve my frontend development skills.
 
 #### [PathQuest](https://github.com/cullendales/pathquest)
-[Live Demo](https://pathquest-ten.vercel.app) [StormHacks 2025](https://devpost.com/software/pathquest?ref_content=my-projects-tab&ref_feature=my_projects)
+[Live Demo](https://pathquest-ten.vercel.app) &nbsp; [StormHacks 2025](https://devpost.com/software/pathquest?ref_content=my-projects-tab&ref_feature=my_projects)
 
 Transforms the traditional MBTI personality test into an engaging, interactive adventure. Users navigate through four unique social scenarios as a game character, making choices that reveal their true personality type.
 
