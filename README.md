@@ -9,11 +9,11 @@
 I'm a fourth-year Computer Science student at Simon Fraser University, specializing in Artificial Intelligence. Creating programs which optimize aspects of my own life is a passion of mine, and I am continuously working to improve my skillset. I focus primarily on backend development but have recently been exploring full stack development by building my own website and browser extensions.
 
 ## Projects
-I've included a list below of notable projects of mine organized in a convenient fashion. They have been divided into the categories: [Software Projects](#Software-Projects-Backend-Scripts--Tools), [Full Stack Projects](#Full-Stack-Projects) and [Games](#Games).
+I've included a list below of notable projects of mine organized in a convenient fashion. Stars have been added next to projects that I feel especially proud of due to time, effort or result. They have been divided into the categories: [Software Projects](#Software-Projects-Backend-Scripts--Tools), [Full Stack Projects](#Full-Stack-Projects) and [Games](#Games).
 
 ### Software Projects (Backend, Scripts, & Tools)
 
-#### [Luna](https://github.com/cullendales/luna)
+#### [Luna - a multimodal home speaker assistant](https://github.com/cullendales/luna) ☆
 A multimodal AI home speaker assistant built into a Raspberry Pi. Luna is similar to an Alexa but uses OpenAI API calls to answer questions and utlizes a camera to track your posture or check how nice your outfit looks.
 
 #### [Phocabulary](https://github.com/cullendales/phocabulary) 
@@ -41,7 +41,7 @@ Created two Discord bots in C\#. One of them determines if you are likely a mill
 
 My own website created to showcase some of my projects and continue to improve my frontend development skills.
 
-#### [PathQuest](https://github.com/cullendales/pathquest)
+#### [PathQuest](https://github.com/cullendales/pathquest) ☆
 [Live Demo](https://pathquest-ten.vercel.app) &nbsp; [StormHacks 2025](https://devpost.com/software/pathquest?ref_content=my-projects-tab&ref_feature=my_projects)
 
 Transforms the traditional MBTI personality test into an engaging, interactive adventure. Users navigate through four unique social scenarios as a game character, making choices that reveal their true personality type.
