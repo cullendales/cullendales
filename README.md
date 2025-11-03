@@ -14,7 +14,7 @@ I've included a list below of notable projects of mine organized in a convenient
 ### Software Projects (Backend, Scripts, & Tools)
 
 #### [Luna - a multimodal home speaker assistant](https://github.com/cullendales/luna) ☆
-A multimodal AI home speaker assistant built into a Raspberry Pi. Luna is similar to an Alexa but uses OpenAI API calls to answer questions and utlizes a camera to track your posture or check how nice your outfit looks.
+A multimodal AI home speaker assistant built into a Raspberry Pi. Luna is similar to an Alexa but uses OpenAI API calls to answer questions and utilizes a camera to track your posture or check how nice your outfit looks.
 
 #### [Phocabulary](https://github.com/cullendales/phocabulary) 
 A Vietnamese language learning assistant, which helps the user learn Vietnamese through quizzes based on articles related to user interests.
